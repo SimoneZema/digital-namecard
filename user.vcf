@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Simone Zema;;;
+FN: Simone  Zema 
+ORG:SAP Italia S.p.a.;
+TITLE:Customer Experience Presales Specialist
+EMAIL;type=INTERNET;type=WORK;type=pref:simone.zema@sap.com
+TEL;type=WORK;type=VOICE:+39 344 2805863
+item1.ADR;type=WORK;type=pref:;;Via Amsterdam 125\nRome\, 00144;;;;Italy
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://www.linkedin.com/in/simonezema/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
